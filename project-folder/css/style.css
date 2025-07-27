@@ -1,0 +1,173 @@
+
+body {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.8;
+  letter-spacing: 0.5px;
+  color: #333;
+  background-color: #fff;
+  margin: 30px;
+}
+
+.khet {
+  text-align: center;
+  font-size: 2em;
+  color: #da1414;
+  margin-bottom: 20px;
+  text-shadow: #000000;
+}
+h1 {
+  font-size: 1.2em;
+  color: #222;
+  margin-top: 10px;
+  
+}
+
+p {
+  text-align: justify;
+  font-size: 1.2em;
+}
+
+strong {
+  font-weight:smaller;
+}
+
+u {
+  text-decoration: underline;
+}
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.gallery img {
+  width: 200px;
+  height: auto;
+  border-radius: 20px;
+}
+
+table {
+  
+  width: 100%;
+  margin: 0 auto;
+ border: 1px solid #ec0d0d;
+  border-collapse: collapse;
+  
+
+}
+
+th {
+  border: 1px solid #ccc;
+  background-color: #f3f2f3f2;
+  color: #4c4b4b;
+  padding: 5px;
+  text-align: top;
+
+  font-weight: bold;
+  font-size: 1.1em;
+
+}
+
+td {
+  border: 1px solid #ccc;
+  color: #575656;
+  padding: 7px;
+  text-align: center;
+}
+.su {
+  border: 1px solid #ccc;
+  background-color: #f3f2f3f2;
+  color: #4c4b4b;
+  padding: 5px;
+  text-align: top;
+
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.sa {
+  border: 1px solid #ccc;
+  background-color: #f3f2f3f2;
+  color: #4c4b4b;
+  padding: 5px;
+  text-align: top;
+
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.za {
+ border: 1px solid #ccc;
+  background-color: #f3f2f3f2;
+  color: #4c4b4b;
+  padding: 5px;
+  text-align: top;
+
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+
+.blo {
+  font-weight: bold;
+  text-align: center;
+}
+.font {
+  text-align: left;
+  color: #0c0a0a;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.header {
+  background-color: #0f0f0ff2;
+  color: #ef0e0e;
+  font-weight: bold;
+  font: 1em sans-serif;
+}
+.hd {
+  text-align: center;
+  font-size: 2em;
+  color: #1c70b1;
+  margin-bottom: 20px;
+  text-shadow: #000000;
+}
+.so{
+  text-align: center;
+  font-size: 30px;
+  color: #020af3;
+  margin-bottom: 20px;
+  text-shadow: #000000;
+}
+
+.ko {
+  text-align: left;
+  font-size: 20px;
+  color: #f3f30a;
+  margin-bottom: 20px;
+  text-shadow: #000000;
+}
+.yo {
+  text-align: left;
+  font-size: 20px;
+  color: #020af3 ;
+  margin-bottom: 20px;
+  text-shadow: #000000;
+}
+.index {
+  background-color: #d1e0a4;
+}
+.fo {
+  text-align: left;
+  font-size: 20px;
+  color: #f30a0a;
+  margin-bottom: 20px;
+  text-shadow: #000000;
+}
+.myprofile {
+  background-color: #94d9f6;
+}
+.re {
+  text-align: left;
+  font-size: 20px;
+  color: #1c70b1;
+  margin-bottom: 20px;
+  text-shadow: #000000;
+}
